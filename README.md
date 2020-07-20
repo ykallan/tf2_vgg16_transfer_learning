@@ -1,0 +1,2 @@
+# tf2_vgg16_transfer_learning
+tensorflow2， 使用vgg16迁移学习识别cifar10数据集
